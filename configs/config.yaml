@@ -1,0 +1,15 @@
+app:
+  env: sit
+  name: users-profile
+  port: 1323
+
+
+db:
+  user-profile:
+    database: erp-project
+    host: 127.0.0.1
+    port: 5432
+    username: root
+    password: 0872772514Za
+    maxOpenConns: 20
+    maxIdleConns: 20
